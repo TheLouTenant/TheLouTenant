@@ -37,12 +37,12 @@
 
 <p align="left">
   <a href="./social.md" target="blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="20 "height="20"/>
+    <img src="./assets/twitter.svg" alt="twitter" width="20 "height="20"/>
   </a>
   <a href="./social.md" target="blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/facebook/facebook-original.svg" alt="facebook" width="20 "height="20"/>
+    <img src="./assets/facebook.svg" alt="facebook" width="20 "height="20"/>
   </a>
   <a href="./social.md" target="blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20 "height="20"/>
+    <img src="./assets/linkedin.svg" alt="linkedin" width="20 "height="20"/>
   </a>
 </p>
