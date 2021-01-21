@@ -9,26 +9,29 @@
 - 🥅 2021 Goals: Work on my networking skills
 - ⚡ Fun fact: I don't have any social media other than WhatsApp
 
-### Languages and Tools
+### Skills
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" alt="HTML5" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" alt="CSS3" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="SASS" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="Javascript" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="React" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-plain.svg" alt="git" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="Angular" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-plain.svg" alt="Webpack" width="20 "height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-plain.svg" alt="Typescript" width="20 "height="20"/>
+  <img src="./assets/angular.svg" alt="Angular" width="20 "height="20"/>
+  <img src="./assets/css3.svg" alt="CSS3" width="20 "height="20"/>
+  <img src="./assets/github.svg" alt="git" width="20 "height="20"/>
+  <img src="./assets/gitlab.svg" alt="git" width="20 "height="20"/>
+  <img src="./assets/html5.svg" alt="HTML5" width="20 "height="20"/>
+  <img src="./assets/javascript.svg" alt="Javascript" width="20 "height="20"/>
+  <img src="./assets/nodejs.svg" alt="NodeJS" width="20 "height="20"/>
+  <img src="./assets/react.svg" alt="React" width="20 "height="20"/>
+  <img src="./assets/sass.svg" alt="SASS" width="20 "height="20"/>
+  <img src="./assets/typescript.svg" alt="Typescript" width="20 "height="20"/>
+  <img src="./assets/webpack.svg" alt="Webpack" width="20 "height="20"/>
 </p>
 
 ### GitHub Stats
 
-<p align="left">
-  <img alt="TheLouTenant's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TheLouTenant&show_icons=true&hide_border=true" />
-</p>
+[![TheLouTenant's github stats](https://github-readme-stats.vercel.app/api?username=TheLouTenant&show_icons=true&theme=dark)](https://github.com/TheLouTenant/)
+
+### Top Languages used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLouTenant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social Media
 
