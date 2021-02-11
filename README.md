@@ -25,13 +25,17 @@
   <img src="./assets/webpack.svg" alt="Webpack" width="20 "height="20"/>
 </p>
 
-### GitHub Stats
+![Profile views](https://gpvc.arturio.dev/rafaeldgoliveira)  
 
-[![TheLouTenant's github stats](https://github-readme-stats.vercel.app/api?username=TheLouTenant&show_icons=true&theme=dark)](https://github.com/TheLouTenant/)
+![GitHub metrics](https://metrics.lecoq.io/rafaeldgoliveira)  
 
-### Top Languages used
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldgoliveira&show_icons=true&count_private=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLouTenant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldgoliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafaeldgoliveira)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rafaeldgoliveira)  
 
 ### Social Media
 
